@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28f42b17-53dc-4d01-ad8f-fb712fee930d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/.idea/AppData.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/IdVd_plotter/Common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/IdVd_plotter/IdVd_plotter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/IdVd_plotter/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/IdVd_plotter/config_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/IdVd_plotter/file_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/IdVd_plotter/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/IdVd_plotter/plotter.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/TrapDensity_plotter/Common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/TrapDensity_plotter/TrapDistr_plotter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/TrapDensity_plotter/config_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/TrapDensity_plotter/file_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/TrapDensity_plotter/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/TrapDensity_plotter/plotter.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppData/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdVd/data/IdVd_exponential_Vgf_-2_Es_1.72_Em_1.48.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdVd/data/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdVd/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdVd/output/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdVd/plotter.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrapDistr/data/TrapData_exponential_Vgf_-2_Es_1.72_Em_1.48_(-7,30).csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrapDistr/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrapDistr/output/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrapDistr/plotter.lnk" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;matteoSatanassi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/matteoSatanassi/plotter.git&quot;,
+    &quot;accountId&quot;: &quot;6086bd13-8dd3-43a6-806f-3195927bab4c&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2x0Khyvwpf2MZQQ2yLEQcB8Nyzd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Common.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IdVd_plotter.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.TrapDistr_plotter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.config_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_manager.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Documents/Uni/Tirocinio/AppData&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\Uni\Tirocinio\AppData" />
+      <recent name="C:\Users\user\Documents\Uni\Tirocinio\AppData\IdVd_plotter" />
+      <recent name="C:\Users\user\Documents\Uni\Tirocinio\AppData\TrapDensity_plotter" />
+      <recent name="C:\Users\user\Documents\Uni\Tirocinio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\Uni\Tirocinio\AppData\IdVd_plotter" />
+      <recent name="C:\Users\user\Documents\Uni\Tirocinio\AppData" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28f42b17-53dc-4d01-ad8f-fb712fee930d" name="Changes" comment="" />
+      <created>1747069673186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747069673186</updated>
+      <workItem from="1747069674262" duration="2529000" />
+      <workItem from="1747072931744" duration="27906000" />
+      <workItem from="1747156769008" duration="1384000" />
+      <workItem from="1747217461176" duration="14314000" />
+      <workItem from="1747646773087" duration="45238000" />
+      <workItem from="1747842374990" duration="1165000" />
+      <workItem from="1748091085408" duration="20379000" />
+      <workItem from="1748180443864" duration="327000" />
+      <workItem from="1748180786733" duration="22093000" />
+      <workItem from="1748336814140" duration="13154000" />
+      <workItem from="1748354051157" duration="638000" />
+      <workItem from="1748450833266" duration="1355000" />
+      <workItem from="1748505308461" duration="1681000" />
+      <workItem from="1748618740773" duration="134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AppData/TrapDensity_plotter/file_manager.py</url>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AppData/TrapDensity_plotter/main.py</url>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tirocinio$Common.coverage" NAME="Common Coverage Results" MODIFIED="1748352962975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AppData/TrapDensity_plotter_2" />
+    <SUITE FILE_PATH="coverage/Tirocinio$IdVd_plotter.coverage" NAME="IdVd_plotter Coverage Results" MODIFIED="1747690796548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AppData/IdVd_plotter" />
+    <SUITE FILE_PATH="coverage/Tirocinio$main.coverage" NAME="main Coverage Results" MODIFIED="1748353237347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AppData/TrapDensity_plotter" />
+    <SUITE FILE_PATH="coverage/Tirocinio$file_manager.coverage" NAME="file_manager Coverage Results" MODIFIED="1747683295193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AppData/IdVd_plotter" />
+    <SUITE FILE_PATH="coverage/Tirocinio$config_manager.coverage" NAME="config_manager Coverage Results" MODIFIED="1747080114834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AppData/IdVd_plotter" />
+    <SUITE FILE_PATH="coverage/Tirocinio$TrapDistr_plotter.coverage" NAME="TrapDistr_plotter Coverage Results" MODIFIED="1747148884042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AppData/TrapDensity_plotter" />
+  </component>
+</project>
