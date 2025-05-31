@@ -1,9 +1,3 @@
-# Ignora le cartelle di output e dati
-IdVd/data/
-IdVd/output/
-TrapDistr/data/
-TrapDistr/output/
-
 # Ignora IMG
 AppData/IMG/
 
