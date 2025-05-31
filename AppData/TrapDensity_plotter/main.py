@@ -2,7 +2,7 @@ import config_manager
 import file_manager
 import time
 
-# config_manager.main()
+config_manager.main()
 start_time = time.time()
 n_file = file_manager.main()
 end_time = time.time()
