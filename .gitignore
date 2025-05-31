@@ -1,0 +1,27 @@
+# Ignora le cartelle di output e dati
+IdVd/data/
+IdVd/output/
+TrapDistr/data/
+TrapDistr/output/
+
+# Ignora IMG
+AppData/IMG/
+
+# Ignora file compilati Python
+*.pyc
+__pycache__/
+
+# Ignora ambienti virtuali
+.venv/
+env/
+
+# Ignora impostazioni IDE (PyCharm, VSCode, ecc.)
+.idea/
+.vscode/
+
+# Ignora file temporanei di sistema
+.DS_Store
+Thumbs.db
+
+# Ignora file di log
+*.log
