@@ -19,3 +19,5 @@ Thumbs.db
 
 # Ignora file di log
 *.log
+*.ini
+*.lnk
